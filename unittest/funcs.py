@@ -14,3 +14,4 @@ def max_in_list(numbers):
 def min_in_list(numbers):
     if not numbers:
         return None
+    return min(numbers)
